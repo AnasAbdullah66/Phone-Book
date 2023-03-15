@@ -1,0 +1,15 @@
+﻿<Window x:Class="PhoneBook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhoneBook"
+        mc:Ignorable="d"
+        Title="Phone Book" Height="332.4" Width="338.76" Icon="contact-book-icon-29.jpg" WindowStartupLocation="CenterScreen" FontSize="14" FontFamily="Bookman Old Style" Background="#FFEDD9B4" BorderBrush="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Foreground="#FFE72929">
+    <Grid>
+        <Button x:Name="btnAddNew" Content="Add New &#xA;Contact Number" HorizontalAlignment="Left" Margin="92,163,0,0" VerticalAlignment="Top" Width="154" FontWeight="Bold" Height="38" VerticalContentAlignment="Center" Click="Button_Click"/>
+        <Button Content="Show Contact List" HorizontalAlignment="Left" Margin="92,231,0,0" VerticalAlignment="Top" Width="154" FontWeight="Bold" Height="38" VerticalContentAlignment="Center" Click="Button_Click_1"/>
+        <Image HorizontalAlignment="Left" Height="121" Margin="114,37,0,0" VerticalAlignment="Top" Width="110" Source="images.png"/>
+
+    </Grid>
+</Window>

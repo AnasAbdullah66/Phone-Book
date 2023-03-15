@@ -1,0 +1,155 @@
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\App.g.cs
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.cache
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.lref
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\MainWindow.baml
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.g.resources
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\ContactDetails.g.cs
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\DataView.g.cs
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\ContactDetails.baml
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\DataView.baml
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\OneDrive\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\ContactDetails.g.cs
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\DataView.g.cs
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\App.g.cs
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.cache
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.lref
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\ContactDetails.baml
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\DataView.baml
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\MainWindow.baml
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.g.resources
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Administrator\OneDrive\Desktop\PC HELP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\student\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\student\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\student\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\student\Desktop\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\ContactDetails.g.cs
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\DataView.g.cs
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\App.g.cs
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.cache
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.lref
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\ContactDetails.baml
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\DataView.baml
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.g.resources
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\student\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\AAB\Practice\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\AAB\Practice\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+E:\AAB\Practice\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\AAB\Practice\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.dll
+E:\AAB\Practice\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.xml
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\ContactDetails.g.cs
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\DataView.g.cs
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\MainWindow.g.cs
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\App.g.cs
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.cache
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.lref
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\ContactDetails.baml
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\DataView.baml
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\MainWindow.baml
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook.g.resources
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+E:\AAB\Practice\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\ContactDetails.g.cs
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\DataView.g.cs
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\App.g.cs
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.cache
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.lref
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\ContactDetails.baml
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\DataView.baml
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.g.resources
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\ContactDetails.g.cs
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\DataView.g.cs
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\App.g.cs
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.cache
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.lref
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\ContactDetails.baml
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\DataView.baml
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\MainWindow.baml
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.g.resources
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Administrator\OneDrive\Desktop\Projects\New folder\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\Projects\C# Project\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Projects\C# Project\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Projects\C# Project\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Projects\C# Project\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\C# Project\PhoneBook\PhoneBook\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\ContactDetails.g.cs
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\DataView.g.cs
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\MainWindow.g.cs
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\App.g.cs
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.cache
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.lref
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\ContactDetails.baml
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\DataView.baml
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\MainWindow.baml
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.g.resources
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Projects\C# Project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

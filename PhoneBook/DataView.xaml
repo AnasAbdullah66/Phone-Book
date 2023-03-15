@@ -1,0 +1,52 @@
+﻿<Window x:Class="PhoneBook.DataView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhoneBook"
+        mc:Ignorable="d"
+        Title="DataView" Height="450" Width="848.015" WindowStartupLocation="CenterScreen" Icon="contact-book-icon-29.jpg">
+    <Grid Background="#FFE5C95D">
+        <Button Content="" HorizontalAlignment="Left" Margin="20,21,0,0" VerticalAlignment="Top" Width="47" Height="38" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="87-876153_back-button-png-brown.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnUpdate" Visibility="Hidden" Content="Update" HorizontalAlignment="Left" Margin="657,58,0,0" VerticalAlignment="Top" Width="87" FontSize="14" FontFamily="Bookman Old Style" FontWeight="Bold" Height="31" Click="btnUpdate_Click"/>
+        <ListView x:Name="listContact" HorizontalAlignment="Left" Height="309" Margin="6,101,0,0" VerticalAlignment="Top" Width="826" Background="#FFD4E5DA">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Image" Width="75">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image HorizontalAlignment="Center" Height="Auto" VerticalAlignment="Center" Width="Auto" Source="{Binding ImageSrc}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Name" Width="120" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Contact Number" Width="125" DisplayMemberBinding="{Binding ContactNumber}"/>
+                    <GridViewColumn Header="Email" Width="120" DisplayMemberBinding="{Binding Email}"/>
+                    <GridViewColumn Header="Gender" Width="75" DisplayMemberBinding="{Binding Gender}"/>
+                    <GridViewColumn Header="Relationship" Width="75" DisplayMemberBinding="{Binding Relationship}"/>
+                    <GridViewColumn Header="Address" Width="90" DisplayMemberBinding="{Binding Address}"/>
+                    
+                    <GridViewColumn Header="Edit" Width="65">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Edit"  x:Name="Edit" Click="Edit_Click" CommandParameter="{Binding}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Delete" Width="65">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Delete" Name="Delete" Click="Delete_Click" CommandParameter="{Binding}"></Button>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>
